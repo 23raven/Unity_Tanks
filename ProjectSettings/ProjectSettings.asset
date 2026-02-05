@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: ffbe930b1775fd94f9f7e39ed9699566
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -957,7 +957,7 @@ PlayerSettings:
   cloudProjectId: 139363db-a52d-49cd-a175-bf4f248c8804
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: QA-Pack-1 2026-01-14_20-55-28
+  projectName: tankslmao
   organizationId: raven23games
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
